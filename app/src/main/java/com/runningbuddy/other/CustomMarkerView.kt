@@ -1,5 +1,6 @@
 package com.runningbuddy.other
 
+import android.annotation.SuppressLint
 import android.content.Context
 import com.github.mikephil.charting.components.MarkerView
 import com.github.mikephil.charting.data.Entry
@@ -10,6 +11,7 @@ import kotlinx.android.synthetic.main.marker_view.view.*
 import java.text.SimpleDateFormat
 import java.util.*
 
+@SuppressLint("ViewConstructor")
 class CustomMarkerView(
     val runs: List<Run>,
     c: Context,
