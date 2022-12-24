@@ -7,12 +7,19 @@
 
 # Tools and Tech stack used :
 • Kotlin, Hilt, Fragments
+
 • Custom list adapters
+
 • Settings panel, Custom sorting
+
 • Tracking service, Google Maps API
+
 • GPS tracking (while in background controlled by a Foreground Service)
+
 • Statistics and graphing using MPAndroidChart charting library
+
 • Room database cache with Custom Type-converters to save maps
+
 • Bottom tab Navigation with ViewPager
 
 
@@ -20,4 +27,18 @@
 
 # Screenshots:
 
-![Alt text](RunningBuddy/SS/Screenshot_20221223_083348.png?raw=true "Optional Title")
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084911.png" align="left" height="450" width="300" ></a>
+
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084925.png" align="left" height="450" width="300" ></a>
+
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084207.png" align="left" height="450" width="300" ></a>
+
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_083348.png" align="left" height="450" width="300" ></a>
+
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084223.png" align="left" height="450" width="300" ></a>
+
+<a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084244.png" align="left" height="450" width="300" ></a>
+
+
+
+
