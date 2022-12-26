@@ -39,6 +39,7 @@
 
 <a href="url"><img src="https://github.com/mrHchan/RunningBuddy/blob/Completed_Project/SS/Screenshot_20221223_084244.png" align="left" height="450" width="300" ></a>
 
+<a href="url"><img src="https://user-images.githubusercontent.com/61715367/209489332-b665cea8-301a-4743-a314-d7e581330792.png" align="left" height="450" width="300" ></a>
 
 
 
